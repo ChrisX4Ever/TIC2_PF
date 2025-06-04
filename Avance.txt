@@ -1,2 +1,4 @@
 - Probamos si la matriz funciona
--
+- Usamos el módulo MB-102 Power Module
+- El primer Power Module estaba malo, el segundo se puenteó
+- Realizamos la conexión de la matriz LED y ejecutamos el código de prueba (¡Ambas matrices funcionan!)
